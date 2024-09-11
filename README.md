@@ -4,10 +4,10 @@
 [![Anaconda-date](https://anaconda.org/conda-forge/parcels/badges/latest_release_date.svg)](https://anaconda.org/conda-forge/parcels/)
 [![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.823561.svg)](https://doi.org/10.5281/zenodo.823561)
 [![Code style: Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/format.json)](https://github.com/astral-sh/ruff)
-[![unit-tests](https://github.com/OceanParcels/parcels/actions/workflows/ci.yml/badge.svg)](https://github.com/OceanParcels/parcels/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/OceanParcels/parcels/branch/master/graph/badge.svg)](https://codecov.io/gh/OceanParcels/parcels)
+[![unit-tests](https://github.com/fomightez/Parcels/actions/workflows/ci.yml/badge.svg)](https://github.com/fomightez/Parcels/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/fomightez/Parcels/branch/master/graph/badge.svg)](https://codecov.io/gh/fomightez/Parcels)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5353/badge)](https://bestpractices.coreinfrastructure.org/projects/5353)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OceanParcels/parcels/master?labpath=docs%2Fexamples%2Fparcels_tutorial.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/Parcels/master?labpath=docs%2Fexamples%2Fparcels_tutorial.ipynb)
 
 **Parcels** (**P**robably **A** **R**eally **C**omputationally **E**fficient **L**agrangian **S**imulator) is a set of Python classes and methods to create customisable particle tracking simulations using output from Ocean Circulation models. Parcels can be used to track passive and active particulates such as water, plankton, [plastic](http://www.topios.org/) and [fish](https://github.com/Jacketless/IKAMOANA).
 
@@ -35,8 +35,8 @@ See [oceanparcels.org](http://oceanparcels.org/) for further information about [
 
 ### Contributors
 
-<a href="https://github.com/oceanparcels/parcels/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=oceanparcels/parcels" />
+<a href="https://github.com/fomightez/Parcels/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=fomightez/Parcels" />
 </a>
 
 **All contributions are welcome! See the [contributing page](https://docs.oceanparcels.org/en/latest/contributing.html) in our documentation to see how to get involved.**
